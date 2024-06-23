@@ -1,0 +1,7 @@
+# Ignora tutto tranne .tex e .pdf
+*
+
+!*.tex
+!*.pdf
+!.gitignore
+!*.md
